@@ -1,0 +1,2 @@
+# IdeaProjects
+For Java learning
