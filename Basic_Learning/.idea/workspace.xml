@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4715c60e-2ff3-408a-968b-8f7259d1a1d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String_Learning/Get_index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Learning/Get_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Learning/String_endsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Learning/String_format_date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Learning/String_stringbuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Learning/String_trim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Learning/String_upper_lower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data_Structure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_Cut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_Cut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_contains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_equal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_equal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_replace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_split.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_split.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_toCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_toCharArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,17 +25,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/String_Learning/String_endsWith.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,13 +53,25 @@
         <option value="$PROJECT_DIR$/src/String_Learning/获取子字符串.java" />
         <option value="$PROJECT_DIR$/src/String_Learning/Get_indexOf.java" />
         <option value="$PROJECT_DIR$/src/String_Learning/String_endsWith.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_starts_or_endsWith.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_toCharArray.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_contains.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_equal.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_Cut.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_replace.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_split.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_upper_lower.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_trim.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_format.java" />
+        <option value="$PROJECT_DIR$/src/String_Learning/String_stringbuffer.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="773" />
+    <option name="y" value="22" />
+    <option name="width" value="649" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -112,6 +120,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,9 +134,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Get_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Learning.Get_index" />
+  <component name="RunManager" selected="Application.String_format_date">
+    <configuration name="String_format_date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Learning.String_format_date" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Get_indexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Learning.Get_indexOf" />
+    <configuration name="String_replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Learning.String_replace" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Learning.String_Convert" />
+    <configuration name="String_split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Learning.String_split" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Get_Length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Learning.String_Get_Length" />
+    <configuration name="String_trim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Learning.String_trim" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
@@ -178,8 +187,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_starts_or_endsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Learning.String_starts_or_endsWith" />
+    <configuration name="String_upper_lower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Learning.String_upper_lower" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
@@ -193,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String_starts_or_endsWith" />
-        <item itemvalue="Application.Get_indexOf" />
-        <item itemvalue="Application.Get_index" />
-        <item itemvalue="Application.String_Get_Length" />
-        <item itemvalue="Application.String_Convert" />
+        <item itemvalue="Application.String_format_date" />
+        <item itemvalue="Application.String_trim" />
+        <item itemvalue="Application.String_upper_lower" />
+        <item itemvalue="Application.String_split" />
+        <item itemvalue="Application.String_replace" />
       </list>
     </recent_temporary>
   </component>
@@ -213,18 +222,25 @@
       <updated>1562591153168</updated>
       <workItem from="1562591156699" duration="4888000" />
       <workItem from="1562998788273" duration="84000" />
-      <workItem from="1563348036343" duration="2233000" />
+      <workItem from="1563348036343" duration="9988000" />
     </task>
+    <task id="LOCAL-00001" summary="7.17下午java学习">
+      <created>1563350441128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563350441128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7205000" />
+    <option name="totallyTimeSpent" value="14960000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.515906" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.51541555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -233,7 +249,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21846154" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24926686" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -241,9 +257,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3288889" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3276923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -254,9 +270,44 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.515906" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21076924" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3276923" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7.17下午java学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.17下午java学习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Basic_Learning.java" />
@@ -302,13 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_Get_Length.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/String_Learning/Get_index.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -323,10 +367,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_endsWith.java">
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_contains.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_upper_lower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_trim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_toCharArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_Get_Length.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_format_date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_equal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_Cut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_stringbuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_starts_or_endsWith.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_replace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_split.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
         </state>
       </provider>
     </entry>

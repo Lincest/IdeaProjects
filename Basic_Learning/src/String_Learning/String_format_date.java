@@ -3,7 +3,7 @@ package String_Learning;
 import java.sql.SQLOutput;
 import java.util.Date;
 
-public class String_format {
+public class String_format_date {
     public static void main(String[] args) {
         Date date = new Date();
         String str = String.format("%tF", date);
