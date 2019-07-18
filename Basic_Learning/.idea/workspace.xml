@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4715c60e-2ff3-408a-968b-8f7259d1a1d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String_Learning/String_format_date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Learning/String_stringbuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Learning/String_trim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Learning/String_upper_lower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Learning/computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Learning/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Learning/pad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_Cut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_Cut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_contains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_equal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_equal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_split.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_split.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_toCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_toCharArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic_Learning/String_Learning/String_format.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Learning/String_stringbuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Learning/String_stringbuffer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +21,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OOP_Learning/demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,14 +74,20 @@
         <option value="$PROJECT_DIR$/src/String_Learning/String_trim.java" />
         <option value="$PROJECT_DIR$/src/String_Learning/String_format.java" />
         <option value="$PROJECT_DIR$/src/String_Learning/String_stringbuffer.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Learning/Bird.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Learning/Leopard.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Learning/Class_and_Object.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Learning/Book.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Learning/computer.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Learning/pad.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Learning/demo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="773" />
-    <option name="y" value="22" />
-    <option name="width" value="649" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -97,14 +113,14 @@
               <item name="Basic_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Basic_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="String_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_Learning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +150,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.String_format_date">
+  <component name="RunManager">
+    <configuration name="Bird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Learning.Bird" />
+      <module name="Basic_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="String_format_date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_Learning.String_format_date" />
       <module name="Basic_Learning" />
@@ -148,21 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Learning.String_replace" />
-      <module name="Basic_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String_Learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String_split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Learning.String_split" />
+    <configuration name="String_stringbuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Learning.String_stringbuffer" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
@@ -187,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_upper_lower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Learning.String_upper_lower" />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Learning.demo" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String_Learning.*" />
+          <option name="PATTERN" value="OOP_Learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.Bird" />
+        <item itemvalue="Application.String_stringbuffer" />
         <item itemvalue="Application.String_format_date" />
         <item itemvalue="Application.String_trim" />
-        <item itemvalue="Application.String_upper_lower" />
-        <item itemvalue="Application.String_split" />
-        <item itemvalue="Application.String_replace" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +238,8 @@
       <updated>1562591153168</updated>
       <workItem from="1562591156699" duration="4888000" />
       <workItem from="1562998788273" duration="84000" />
-      <workItem from="1563348036343" duration="9988000" />
+      <workItem from="1563348036343" duration="10526000" />
+      <workItem from="1563416905220" duration="9894000" />
     </task>
     <task id="LOCAL-00001" summary="7.17下午java学习">
       <created>1563350441128</created>
@@ -235,12 +252,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14960000" />
+    <option name="totallyTimeSpent" value="25392000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.51541555" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.51452285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -249,7 +266,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24926686" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25692308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -259,7 +276,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3276923" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32615384" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -426,13 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_stringbuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/String_Learning/String_starts_or_endsWith.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -451,6 +461,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Learning/String_stringbuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Leopard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/pad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
