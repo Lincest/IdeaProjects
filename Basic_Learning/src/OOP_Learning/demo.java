@@ -2,11 +2,11 @@ package OOP_Learning;
 
 public class demo{
     public static void main(String[] args) {
-        Infantry tom = new Infantry();
-        tom.shootit();
+        Infantry tom=new Infantry();
 
-        Medic Lily = new Medic();
-        Lily.treatment();
+        tom.id=456;
+
+        System.out.println(tom.id);
 
     }
 }

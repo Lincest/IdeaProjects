@@ -10,4 +10,5 @@ public class Infantry implements shoot,treat {
     public void shootit() {
         System.out.println("I can shoot you");
     }
+    int id=10001;
 }

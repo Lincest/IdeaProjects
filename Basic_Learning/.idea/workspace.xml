@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4715c60e-2ff3-408a-968b-8f7259d1a1d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP_Learning/Infantry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Learning/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Learning/shoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Learning/treat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic_Learning/OOP_Learning/computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic_Learning/OOP_Learning/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Basic_Learning/OOP_Learning/demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic_Learning/OOP_Learning/pad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/Infantry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Learning/Infantry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP_Learning/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Learning/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/pad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/shoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Learning/shoot.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OOP_Learning/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="168">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -39,20 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/OOP_Learning/treat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Medic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-              </folding>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -60,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Infantry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="252">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding>
                 <element signature="e#112#113#0" expanded="true" />
                 <element signature="e#150#151#0" expanded="true" />
@@ -75,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OOP_Learning/shoot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="84">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -135,9 +114,9 @@
         <option value="$PROJECT_DIR$/src/OOP_Learning/stduent.java" />
         <option value="$PROJECT_DIR$/src/OOP_Learning/tmp.java" />
         <option value="$PROJECT_DIR$/src/OOP_Learning/treat.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Learning/Medic.java" />
         <option value="$PROJECT_DIR$/src/OOP_Learning/shoot.java" />
         <option value="$PROJECT_DIR$/src/OOP_Learning/Infantry.java" />
-        <option value="$PROJECT_DIR$/src/OOP_Learning/Medic.java" />
         <option value="$PROJECT_DIR$/src/OOP_Learning/demo.java" />
       </list>
     </option>
@@ -161,17 +140,6 @@
             <path>
               <item name="Basic_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Basic_Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Basic_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Basic_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP_Learning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,7 +268,7 @@
       <workItem from="1563416905220" duration="9894000" />
       <workItem from="1563621265422" duration="4791000" />
       <workItem from="1563689448237" duration="66000" />
-      <workItem from="1564035007975" duration="1285000" />
+      <workItem from="1564035007975" duration="3272000" />
     </task>
     <task id="LOCAL-00001" summary="7.17下午java学习">
       <created>1563350441128</created>
@@ -313,13 +281,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31534000" />
+    <option name="totallyTimeSpent" value="33521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5117566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5117566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -573,33 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/treat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/shoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Infantry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Medic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -611,10 +551,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/shoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/treat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Infantry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP_Learning/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="168">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
