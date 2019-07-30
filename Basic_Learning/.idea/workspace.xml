@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4715c60e-2ff3-408a-968b-8f7259d1a1d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/Infantry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Learning/Infantry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Learning/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/shoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Learning/shoot.java" afterDir="false" />
-    </list>
+    <list default="true" id="4715c60e-2ff3-408a-968b-8f7259d1a1d3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,50 +13,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OOP_Learning/demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP_Learning/treat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Infantry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP_Learning/shoot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -122,9 +75,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,15 +98,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data_Structure" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -269,6 +222,7 @@
       <workItem from="1563621265422" duration="4791000" />
       <workItem from="1563689448237" duration="66000" />
       <workItem from="1564035007975" duration="3272000" />
+      <workItem from="1564189979541" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="7.17下午java学习">
       <created>1563350441128</created>
@@ -281,12 +235,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33521000" />
+    <option name="totallyTimeSpent" value="33548000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="761" y="0" width="782" height="831" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5117566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5262431" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -505,41 +459,13 @@
     <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Book.java" />
     <entry file="file://$PROJECT_DIR$/src/OOP_Learning/computer.java" />
     <entry file="file://$PROJECT_DIR$/src/OOP_Learning/pad.java" />
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/student.java" />
     <entry file="file://$PROJECT_DIR$/src/OOP_Learning/person.java" />
     <entry file="file://$PROJECT_DIR$/src/OOP_Learning/color.java" />
     <entry file="file://$PROJECT_DIR$/src/OOP_Learning/stduent.java" />
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/tmp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/author.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Draw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/tmp.java" />
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/author.java" />
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Draw.java" />
     <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Medic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -551,10 +477,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/shoot.java">
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="168">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -578,10 +504,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/demo.java">
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/shoot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
