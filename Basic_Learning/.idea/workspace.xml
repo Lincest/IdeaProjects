@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4715c60e-2ff3-408a-968b-8f7259d1a1d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP_Learning/Calendar_Learning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Learning/Date_Learning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapSetHash_Learning/IteratorLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapSetHash_Learning/Listlearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapSetHash_Learning/Maplearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapSetHash_Learning/Person_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapSetHash_Learning/Person_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapSetHash_Learning/SetLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapSetHash_Learning/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic_Learning/OOP_Learning/Math_Learning.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Basic_Learning/OOP_Learning/Math_Learning.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic_Learning/OOP_Learning/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Basic_Learning/OOP_Learning/demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/Math_Learning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Learning/Math_Learning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Learning/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Learning/Calendar_Learning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Learning/Calendar_Learning.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,26 +23,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exception_Learning/CharacterDeomo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Calendar_Learning.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,13 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Basic_Learning.java" />
-        <option value="$PROJECT_DIR$/src/basic_Learning/Array_Learn.java" />
-        <option value="$PROJECT_DIR$/src/basic_Learning/Array_Fill.java" />
-        <option value="$PROJECT_DIR$/src/basic_Learning/Array_Copy.java" />
-        <option value="$PROJECT_DIR$/src/basic_Learning/Array_Sort.java" />
-        <option value="$PROJECT_DIR$/src/String_Learning/Basic_String.java" />
-        <option value="$PROJECT_DIR$/src/String_Learning/String_Add.java" />
         <option value="$PROJECT_DIR$/src/String_Learning/String_Convert.java" />
         <option value="$PROJECT_DIR$/src/String_Learning/String_Get_Length.java" />
         <option value="$PROJECT_DIR$/src/String_Learning/Get_index.java" />
@@ -107,10 +83,17 @@
         <option value="$PROJECT_DIR$/src/OOP_Learning/demo.java" />
         <option value="$PROJECT_DIR$/src/OOP_Learning/Date_Learning.java" />
         <option value="$PROJECT_DIR$/src/OOP_Learning/Calendar_Learning.java" />
+        <option value="$PROJECT_DIR$/src/MapSetHash_Learning/Listlearn.java" />
+        <option value="$PROJECT_DIR$/src/MapSetHash_Learning/IteratorLearn.java" />
+        <option value="$PROJECT_DIR$/src/MapSetHash_Learning/Person_Set.java" />
+        <option value="$PROJECT_DIR$/src/MapSetHash_Learning/Person_HashSet.java" />
+        <option value="$PROJECT_DIR$/src/MapSetHash_Learning/demo.java" />
+        <option value="$PROJECT_DIR$/src/MapSetHash_Learning/SetLearn.java" />
+        <option value="$PROJECT_DIR$/src/MapSetHash_Learning/Maplearn.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -140,7 +123,7 @@
               <item name="Basic_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Basic_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="MapSetHash_Learning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,7 +145,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -176,13 +162,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Date_Learning">
-    <configuration name="CharacterDeomo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception_Learning.CharacterDeomo" />
+  <component name="RunManager" selected="Application.Maplearn">
+    <configuration name="IteratorLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapSetHash_Learning.IteratorLearn" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception_Learning.*" />
+          <option name="PATTERN" value="MapSetHash_Learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Date_Learning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_Learning.Date_Learning" />
+    <configuration name="Listlearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapSetHash_Learning.Listlearn" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_Learning.*" />
+          <option name="PATTERN" value="MapSetHash_Learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleDeomo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception_Learning.DoubleDeomo" />
+    <configuration name="Maplearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapSetHash_Learning.Maplearn" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception_Learning.*" />
+          <option name="PATTERN" value="MapSetHash_Learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math_Learning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_Learning.Math_Learning" />
+    <configuration name="SetLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapSetHash_Learning.SetLearn" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_Learning.*" />
+          <option name="PATTERN" value="MapSetHash_Learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_Learning.demo" />
+    <configuration name="demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapSetHash_Learning.demo" />
       <module name="Basic_Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_Learning.*" />
+          <option name="PATTERN" value="MapSetHash_Learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Date_Learning" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.Math_Learning" />
-        <item itemvalue="Application.CharacterDeomo" />
-        <item itemvalue="Application.DoubleDeomo" />
+        <item itemvalue="Application.Maplearn" />
+        <item itemvalue="Application.demo (1)" />
+        <item itemvalue="Application.SetLearn" />
+        <item itemvalue="Application.IteratorLearn" />
+        <item itemvalue="Application.Listlearn" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +257,7 @@
       <workItem from="1564035007975" duration="3272000" />
       <workItem from="1564189979541" duration="27000" />
       <workItem from="1564554544286" duration="7549000" />
-      <workItem from="1564724943895" duration="2204000" />
+      <workItem from="1564724943895" duration="10139000" />
     </task>
     <task id="LOCAL-00001" summary="7.17下午java学习">
       <created>1563350441128</created>
@@ -280,17 +266,23 @@
       <option name="project" value="LOCAL" />
       <updated>1563350441128</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="7.17下午java学习">
+      <created>1564727170938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564727170938</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43301000" />
+    <option name="totallyTimeSpent" value="51236000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.54218537" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2627346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,13 +291,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2846154" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.045592707" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32923076" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -360,28 +352,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="7.17下午java学习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Basic_Learning.java" />
-    <entry file="file://$PROJECT_DIR$/src/Array_Learning/Array_Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array_Learning/Array_Copy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array_Learning/Array_Fill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/String_Learning/Basic_String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -617,6 +587,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapSetHash_Learning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Calendar_Learning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exception_Learning/CharacterDeomo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -624,12 +608,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Learning/Calendar_Learning.java">
+    <entry file="file://$PROJECT_DIR$/src/MapSetHash_Learning/IteratorLearn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="378">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapSetHash_Learning/Person_HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapSetHash_Learning/Person_Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapSetHash_Learning/SetLearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapSetHash_Learning/Listlearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapSetHash_Learning/Maplearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapSetHash_Learning/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
