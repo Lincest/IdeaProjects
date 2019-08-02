@@ -1,13 +1,12 @@
 package OOP_Learning;
 
+import java.util.Random;
+import java.util.Scanner;
+
 public class demo{
     public static void main(String[] args) {
-        Infantry tom=new Infantry();
-
-        tom.id=456;
-
-        System.out.println(tom.id);
-
+        Random c = new Random();
+        System.out.println(c.nextInt(200));
     }
 }
 

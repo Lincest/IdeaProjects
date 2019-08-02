@@ -25,6 +25,8 @@ public class Math_Learning {
         System.out.println(Math.floor(2.5));
         //round(x) = floor(x+0.5)完全等价 故计算负数时候-15.5这样round会出15
 
+        System.out.println();
+
 
     }
 }
