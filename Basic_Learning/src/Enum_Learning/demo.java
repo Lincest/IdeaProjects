@@ -30,8 +30,11 @@ public class demo {
 
 
     public static void main(String[] args) {
-        Constants c1=Constants.Constants_A;
-        Constants c2=Constants.valueOf("Constants_A");
-        System.out.println(c1==c2);
+        Constants array[]=Constants.values();
+        for (int i = 0; i < array.length; i++) {
+            System.out.println(array[i].getnum());
+            System.out.println(array[i].getstr());
+
+        }
     }
 }
