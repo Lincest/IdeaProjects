@@ -22,6 +22,7 @@ public class acm_1 {
                 sumb = 0;
                 sum = 0;
             }
+            System.out.println("hello world");
         }
     }
 }
